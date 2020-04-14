@@ -1,6 +1,3 @@
-### **peep**
-#### by ConorTheDev
----
 peep is a tweak that allows you to temporarily hide your status bar by tapping on it. It only works on the homescreen and lockscreen at the moment.
 
 The settings instantly apply *without* the need to respring your device! 
